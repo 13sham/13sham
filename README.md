@@ -2,14 +2,14 @@
   <img src="https://i.postimg.cc/xTYn2N1V/20261008-131329.jpg" alt="Banner" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
 </div>
 
-### Hey, I’m Karthick 👋
+### sham?
 
 <table width="100%">
   <tr>
     <td>
-      <b>Software Developer (React & Python/Django)</b> | Class of 2026 | Shipping things to production<br><br>
-      Based in Trivandrum, I build full-stack web applications and occasionally negotiate with bugs until they agree to leave. I work mostly with <b>React, Python, Django, and Tailwind CSS</b>, building everything from REST APIs and authentication systems to interactive frontends.<br><br>
-      I like working across the entire stack because apparently choosing one side of the frontend/backend war wasn't difficult enough. One minute I'm writing <code>self.kwargs</code>, the next I'm fighting <code>useEffect</code>, and somewhere in between CORS has decided my application needs character development.<br><br>
+      <b>A Young Developer (React & Python)</b> | <br><br>
+       I build full-stack web applications and occasionally negotiate with bugs until they agree to leave. I work mostly with <b>React, Python, Django, and Tailwind CSS</b>, building everything from REST APIs and authentication systems to interactive frontends.<br><br>
+      I do most of the projects alone, i feel that's even better aka imma developer with claude.<code>self.kwargs</code>, the next I'm fighting <code>useEffect</code>, and somewhere in between CORS has decided my application needs character development.<br><br>
       Currently building <b>FileGhost</b>, a privacy-focused file sharing platform, and <b>Updrop</b>, a video automation platform born from the completely reasonable decision to spend weeks automating something that could technically be done manually in five minutes.<br><br>
       I enjoy turning vague ideas into working products, undocumented bugs into documented bugs, and <code>localhost</code> projects into things that other humans can actually use.
     </td>
